@@ -27,9 +27,9 @@ If Python is not installed, download it from here:
 https://www.python.org/downloads/
 
 2. Install pandas:
-'''
+```
 pip install pandas
-'''
+```
 
 3. Place the following files in the same directory:
 - database.db
@@ -37,9 +37,9 @@ pip install pandas
 - importExcel.py
 
 4. Run the script
-'''
+```
 python importExcel.py
-'''
+```
 
 The script will automatically read the Excel file and insert the data into the SQLite database.
    
