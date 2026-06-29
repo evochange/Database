@@ -45,7 +45,7 @@ The project includes the diagrams of the database (Entity Relationship and Relat
 The script will automatically read the Excel file and insert the data into the SQLite database.
    
 
-## Demonstration video
+## Demonstration Video
 A demonstration video of the mechanism to import data into the database is available on YouTube.
 <br/>Link: https://youtu.be/tvI2m3VA2EI?si=XBCGgT8W1rMsFEkn
 
