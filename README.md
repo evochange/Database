@@ -26,16 +26,18 @@ The project includes the diagrams of the database (Entity Relationship and Relat
    <br/>https://www.python.org/downloads/
 
 2. Install pandas
+
    ```
    pip install pandas
    ```
 
-3. Place the following files in the same directory
+4. Place the following files in the same directory
 - evochange.db
 - DummyData.xlsx
 - importExcel.py
 
 4. Run the script
+
    ```
    python importExcel.py
    ```
