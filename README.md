@@ -23,5 +23,4 @@ The project includes the diagrams of the database (Entity Relationship and Relat
 
 ## Demonstration video
 A demonstration video of the mechanism to import data into the database is available on YouTube.
-
-Link: https://youtu.be/tvI2m3VA2EI?si=XBCGgT8W1rMsFEkn
+\nLink: https://youtu.be/tvI2m3VA2EI?si=XBCGgT8W1rMsFEkn
