@@ -26,19 +26,19 @@ The project includes the diagrams of the database (Entity Relationship and Relat
    <br/>https://www.python.org/downloads/
 
 2. Install pandas:
-```
-pip install pandas
-```
+   ```
+   pip install pandas
+   ```
 
 3. Place the following files in the same directory:
-- evochange.db
-- DummyData.xlsx
-- importExcel.py
+   - evochange.db
+   - DummyData.xlsx
+   - importExcel.py
 
 4. Run the script
-```
-python importExcel.py
-```
+   ```
+   python importExcel.py
+   ```
 
 The script will automatically read the Excel file and insert the data into the SQLite database.
    
