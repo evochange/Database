@@ -31,9 +31,9 @@ The project includes the diagrams of the database (Entity Relationship and Relat
    ```
 
 3. Place the following files in the same directory:
-   - evochange.db
-   - DummyData.xlsx
-   - importExcel.py
+- evochange.db
+- DummyData.xlsx
+- importExcel.py
 
 4. Run the script
    ```
