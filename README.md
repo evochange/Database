@@ -22,8 +22,8 @@ The project includes the diagrams of the database (Entity Relationship and Relat
 ## How to Run the Import Script
 1. Ensure Python 3 is installed on your system
 
-If not, download it from:
-<br/>https://www.python.org/downloads/
+   If not, download it from:
+   <br/>https://www.python.org/downloads/
 
 2. Install pandas:
 ```
